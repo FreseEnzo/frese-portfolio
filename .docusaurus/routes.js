@@ -3,226 +3,191 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    path: '/frese-portfolio/blog',
+    component: ComponentCreator('/frese-portfolio/blog', 'aa5'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    path: '/frese-portfolio/blog/archive',
+    component: ComponentCreator('/frese-portfolio/blog/archive', '046'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    path: '/frese-portfolio/blog/authors',
+    component: ComponentCreator('/frese-portfolio/blog/authors', '928'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    path: '/frese-portfolio/blog/authors/all-sebastien-lorber-articles',
+    component: ComponentCreator('/frese-portfolio/blog/authors/all-sebastien-lorber-articles', 'f1c'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    path: '/frese-portfolio/blog/authors/yangshun',
+    component: ComponentCreator('/frese-portfolio/blog/authors/yangshun', 'f7a'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    path: '/frese-portfolio/blog/first-blog-post',
+    component: ComponentCreator('/frese-portfolio/blog/first-blog-post', '11f'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    path: '/frese-portfolio/blog/long-blog-post',
+    component: ComponentCreator('/frese-portfolio/blog/long-blog-post', '809'),
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', 'b2f'),
+    path: '/frese-portfolio/blog/mdx-blog-post',
+    component: ComponentCreator('/frese-portfolio/blog/mdx-blog-post', '867'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '182'),
+    path: '/frese-portfolio/blog/tags',
+    component: ComponentCreator('/frese-portfolio/blog/tags', '775'),
     exact: true
   },
   {
-    path: '/blog/authors',
-    component: ComponentCreator('/blog/authors', '0b7'),
+    path: '/frese-portfolio/blog/tags/docusaurus',
+    component: ComponentCreator('/frese-portfolio/blog/tags/docusaurus', 'd25'),
     exact: true
   },
   {
-    path: '/blog/authors/all-sebastien-lorber-articles',
-    component: ComponentCreator('/blog/authors/all-sebastien-lorber-articles', '4a1'),
+    path: '/frese-portfolio/blog/tags/facebook',
+    component: ComponentCreator('/frese-portfolio/blog/tags/facebook', '1a2'),
     exact: true
   },
   {
-    path: '/blog/authors/yangshun',
-    component: ComponentCreator('/blog/authors/yangshun', 'a68'),
+    path: '/frese-portfolio/blog/tags/hello',
+    component: ComponentCreator('/frese-portfolio/blog/tags/hello', '36f'),
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', '89a'),
+    path: '/frese-portfolio/blog/tags/hola',
+    component: ComponentCreator('/frese-portfolio/blog/tags/hola', '3e2'),
     exact: true
   },
   {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', '9ad'),
+    path: '/frese-portfolio/blog/welcome',
+    component: ComponentCreator('/frese-portfolio/blog/welcome', '23f'),
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', 'e9f'),
+    path: '/frese-portfolio/markdown-page',
+    component: ComponentCreator('/frese-portfolio/markdown-page', '5eb'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '287'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '704'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', '858'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '299'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', '00d'),
-    exact: true
-  },
-  {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', 'd2b'),
-    exact: true
-  },
-  {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '3d7'),
-    exact: true
-  },
-  {
-    path: '/docs',
-    component: ComponentCreator('/docs', 'd73'),
+    path: '/frese-portfolio/docs',
+    component: ComponentCreator('/frese-portfolio/docs', '0e5'),
     routes: [
       {
-        path: '/docs',
-        component: ComponentCreator('/docs', 'f48'),
+        path: '/frese-portfolio/docs',
+        component: ComponentCreator('/frese-portfolio/docs', 'e6d'),
         routes: [
           {
-            path: '/docs',
-            component: ComponentCreator('/docs', '3d8'),
+            path: '/frese-portfolio/docs',
+            component: ComponentCreator('/frese-portfolio/docs', '256'),
             routes: [
               {
-                path: '/docs/category/tutorial---basics',
-                component: ComponentCreator('/docs/category/tutorial---basics', '20e'),
+                path: '/frese-portfolio/docs/category/tutorial---basics',
+                component: ComponentCreator('/frese-portfolio/docs/category/tutorial---basics', '97b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/tutorial---extras',
-                component: ComponentCreator('/docs/category/tutorial---extras', '9ad'),
+                path: '/frese-portfolio/docs/category/tutorial---extras',
+                component: ComponentCreator('/frese-portfolio/docs/category/tutorial---extras', '0f2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Projects/Eletric Skateboard',
-                component: ComponentCreator('/docs/Projects/Eletric Skateboard', 'b46'),
+                path: '/frese-portfolio/docs/Projects/Eletric Skateboard',
+                component: ComponentCreator('/frese-portfolio/docs/Projects/Eletric Skateboard', '484'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Projects/Indoor Mapping',
-                component: ComponentCreator('/docs/Projects/Indoor Mapping', '57b'),
+                path: '/frese-portfolio/docs/Projects/Indoor Mapping',
+                component: ComponentCreator('/frese-portfolio/docs/Projects/Indoor Mapping', '40f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Projects/Modular Multi Buck Boost Converter',
-                component: ComponentCreator('/docs/Projects/Modular Multi Buck Boost Converter', 'a71'),
+                path: '/frese-portfolio/docs/Projects/Modular Multi Buck Boost Converter',
+                component: ComponentCreator('/frese-portfolio/docs/Projects/Modular Multi Buck Boost Converter', '99c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Projects/Nucleo H723-ZG Education Board',
-                component: ComponentCreator('/docs/Projects/Nucleo H723-ZG Education Board', '4be'),
+                path: '/frese-portfolio/docs/Projects/Nucleo H723-ZG Education Board',
+                component: ComponentCreator('/frese-portfolio/docs/Projects/Nucleo H723-ZG Education Board', '142'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Projects/Portable Soldering Station',
-                component: ComponentCreator('/docs/Projects/Portable Soldering Station', 'dd7'),
+                path: '/frese-portfolio/docs/Projects/Portable Soldering Station',
+                component: ComponentCreator('/frese-portfolio/docs/Projects/Portable Soldering Station', 'e35'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Projects/SSL Robot',
-                component: ComponentCreator('/docs/Projects/SSL Robot', 'f4c'),
+                path: '/frese-portfolio/docs/Projects/SSL Robot',
+                component: ComponentCreator('/frese-portfolio/docs/Projects/SSL Robot', '26c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/resume',
-                component: ComponentCreator('/docs/resume', 'df6'),
+                path: '/frese-portfolio/docs/resume',
+                component: ComponentCreator('/frese-portfolio/docs/resume', 'a0d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/congratulations',
-                component: ComponentCreator('/docs/tutorial-basics/congratulations', '458'),
+                path: '/frese-portfolio/docs/tutorial-basics/congratulations',
+                component: ComponentCreator('/frese-portfolio/docs/tutorial-basics/congratulations', 'd32'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-blog-post',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post', '108'),
+                path: '/frese-portfolio/docs/tutorial-basics/create-a-blog-post',
+                component: ComponentCreator('/frese-portfolio/docs/tutorial-basics/create-a-blog-post', 'f67'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-document',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-document', '8fc'),
+                path: '/frese-portfolio/docs/tutorial-basics/create-a-document',
+                component: ComponentCreator('/frese-portfolio/docs/tutorial-basics/create-a-document', '07c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-page',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-page', '951'),
+                path: '/frese-portfolio/docs/tutorial-basics/create-a-page',
+                component: ComponentCreator('/frese-portfolio/docs/tutorial-basics/create-a-page', '533'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/deploy-your-site',
-                component: ComponentCreator('/docs/tutorial-basics/deploy-your-site', '4f5'),
+                path: '/frese-portfolio/docs/tutorial-basics/deploy-your-site',
+                component: ComponentCreator('/frese-portfolio/docs/tutorial-basics/deploy-your-site', '93b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/markdown-features',
-                component: ComponentCreator('/docs/tutorial-basics/markdown-features', 'b05'),
+                path: '/frese-portfolio/docs/tutorial-basics/markdown-features',
+                component: ComponentCreator('/frese-portfolio/docs/tutorial-basics/markdown-features', '335'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', '978'),
+                path: '/frese-portfolio/docs/tutorial-extras/manage-docs-versions',
+                component: ComponentCreator('/frese-portfolio/docs/tutorial-extras/manage-docs-versions', '37d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/docs/tutorial-extras/translate-your-site', 'f9a'),
+                path: '/frese-portfolio/docs/tutorial-extras/translate-your-site',
+                component: ComponentCreator('/frese-portfolio/docs/tutorial-extras/translate-your-site', '8dc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -233,8 +198,8 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', 'e5f'),
+    path: '/frese-portfolio/',
+    component: ComponentCreator('/frese-portfolio/', 'daf'),
     exact: true
   },
   {

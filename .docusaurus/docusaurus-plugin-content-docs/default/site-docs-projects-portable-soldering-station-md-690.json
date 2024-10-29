@@ -5,7 +5,7 @@
   "source": "@site/docs/Projects/Portable Soldering Station.md",
   "sourceDirName": "Projects",
   "slug": "/Projects/Portable Soldering Station",
-  "permalink": "/docs/Projects/Portable Soldering Station",
+  "permalink": "/frese-portfolio/docs/Projects/Portable Soldering Station",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Projects/Portable Soldering Station.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Nucleo H723-ZG Education Board",
-    "permalink": "/docs/Projects/Nucleo H723-ZG Education Board"
+    "permalink": "/frese-portfolio/docs/Projects/Nucleo H723-ZG Education Board"
   },
   "next": {
     "title": "SSL Robot",
-    "permalink": "/docs/Projects/SSL Robot"
+    "permalink": "/frese-portfolio/docs/Projects/SSL Robot"
   }
 }
