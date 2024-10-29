@@ -1,0 +1,24 @@
+{
+  "id": "Projects/Indoor Mapping",
+  "title": "Indoor Mapping",
+  "description": "",
+  "source": "@site/docs/Projects/Indoor Mapping.md",
+  "sourceDirName": "Projects",
+  "slug": "/Projects/Indoor Mapping",
+  "permalink": "/docs/Projects/Indoor Mapping",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Projects/Indoor Mapping.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Eletric Skateboard",
+    "permalink": "/docs/Projects/Eletric Skateboard"
+  },
+  "next": {
+    "title": "Modular Multi Buck Boost Converter",
+    "permalink": "/docs/Projects/Modular Multi Buck Boost Converter"
+  }
+}
