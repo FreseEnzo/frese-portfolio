@@ -566,7 +566,7 @@
       "js": [
         {
           "file": "assets/js/runtime~main.8218ca6e.js",
-          "hash": "a1c85d28e98d73cd",
+          "hash": "d9da543734f4ba9f",
           "publicPath": "/frese-portfolio/assets/js/runtime~main.8218ca6e.js"
         }
       ]
@@ -718,9 +718,9 @@
     "8792": {
       "js": [
         {
-          "file": "assets/js/main.e4bb8dbc.js",
-          "hash": "e6918b35df4d52b5",
-          "publicPath": "/frese-portfolio/assets/js/main.e4bb8dbc.js"
+          "file": "assets/js/main.89928a9a.js",
+          "hash": "04f609072b9c7712",
+          "publicPath": "/frese-portfolio/assets/js/main.89928a9a.js"
         }
       ]
     },

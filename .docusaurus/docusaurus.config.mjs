@@ -10,7 +10,7 @@ export default {
   "url": "https://FreseEnzo.github.io",
   "baseUrl": "/frese-portfolio/",
   "organizationName": "FreseEnzo",
-  "projectName": "portfolio",
+  "projectName": "frese-portfolio",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
