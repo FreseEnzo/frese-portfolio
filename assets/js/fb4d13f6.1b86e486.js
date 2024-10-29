@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfrese_portfolio=self.webpackChunkfrese_portfolio||[]).push([[2291],{6081:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/frese-portfolio/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
