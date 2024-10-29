@@ -20,7 +20,7 @@ const FeatureList: FeatureItem[] = [
       </>
     ),
     tags: ['C', '3D', 'STM32', 'BLDC', 'Control'],
-    docsLink: '/docs/easy-to-use', // Link to related docs .md file
+    docsLink: '/docs/Projects/Eletric Skateboard', // Link to related docs .md file
   },
   {
     title: 'Modular Multi Buck Boost Converter',
